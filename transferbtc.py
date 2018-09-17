@@ -1,3 +1,4 @@
+# python-bitcoinlibライブラリを使用しています
 import bitcoin
 import bitcoin.rpc
 
